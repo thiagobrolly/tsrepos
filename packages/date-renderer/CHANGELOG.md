@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/thiagobrolly/tsrepos/compare/@tsrepos/date-renderer@2.1.0...@tsrepos/date-renderer@2.2.0) (2022-07-22)
+
+
+### Features
+
+* **data-renderer:** mais console.log ([38e818d](https://github.com/thiagobrolly/tsrepos/commit/38e818d7de9c653e1fab219ec4097216947fb699))
+
+
+
+
+
 # [2.1.0](https://github.com/thiagobrolly/tsrepos/compare/@tsrepos/date-renderer@2.0.1...@tsrepos/date-renderer@2.1.0) (2022-07-22)
 
 
