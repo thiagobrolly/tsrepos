@@ -1,12 +1,12 @@
 {
   "name": "@tsrepos/date-renderer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@tsrepos/date-logic": "^1.0.0"
+    "@tsrepos/date-logic": "^2.0.0"
   }
 }
