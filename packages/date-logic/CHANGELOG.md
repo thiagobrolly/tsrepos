@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/thiagobrolly/tsrepos/compare/@tsrepos/date-logic@2.0.0...@tsrepos/date-logic@3.0.0) (2022-07-22)
+
+
+### Features
+
+* **date-logic:** returns localized date string ([980fe0d](https://github.com/thiagobrolly/tsrepos/commit/980fe0d6f342a32d45d854a2d2a5ced4fe977c8c))
+
+
+### BREAKING CHANGES
+
+* **date-logic:** changes the return type of the getDate function
+
+
+
+
+
 # 2.0.0 (2022-07-22)
 
 
